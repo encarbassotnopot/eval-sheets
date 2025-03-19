@@ -2,7 +2,9 @@
 
 Welcome to the heart of self-evaluation for 42 School projects! 📝 Whether you're gearing up for a peer-evaluation or refining your code masterpiece, these sheets offer a sneak peek into the evaluation process, setting you up for success. 🌟
 
-Dive into my meticulously curated evaluation sheets, sourced directly from the official 42 School, and fine-tune your projects to ace that evaluation. For the most immersive experience, check out the [42-Evals Web Page](https://enzodeg40.github.io/42-Evals) - your digital companion for project assessments, updated regularly for seamless access. 🖥️✨
+This project began with [ismailAkyaou](https://github.com/ismailAkyaou/42-Evals). It was then forked by (https://github.com/EnzoDeg40/42-Evals), who maintained it further and created the web version. The project has since been abandoned, and its build process is failing. I've forked it to make it accessible again (and maybe maintain it, maybe not).
+
+Dive into my meticulously curated evaluation sheets, sourced directly from the official 42 School, and fine-tune your projects to ace that evaluation. For the most immersive experience, check out the [42-Evals Web Page](https://42sheets.eina.cc) - your digital companion for project assessments, updated regularly for seamless access. 🖥️✨
 
 ![42-Evals Web Capture](./assets/images/site_preview.png)
 
